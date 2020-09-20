@@ -1931,7 +1931,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #5a5a5a;
+		background-color: #47bee5;
 		color: #ffffff !important;
 	}
 
@@ -1948,7 +1948,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #4d4d4d;
+			background-color: #47bee5;
 		}
 
 		input[type="submit"].alt,
@@ -1974,7 +1974,7 @@
 			input[type="button"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: #f9dadb;
+				background-color: #47bee5;
 			}
 
 			input[type="submit"].alt.icon:before,
@@ -1982,7 +1982,7 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #717171;
+				color: #47bee5;
 			}
 
 		input[type="submit"].special,
@@ -1999,7 +1999,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #e85d61;
+				background-color: #47bee5;
 			}
 
 			input[type="submit"].special:active,
@@ -2007,7 +2007,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #e23135;
+				background-color: #47bee5;
 			}
 
 /* Form */
