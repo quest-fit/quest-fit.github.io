@@ -1956,9 +1956,9 @@
 		input[type="button"].alt,
 		button.alt,
 		.button.alt {
-			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #e5474b;
-			color: #47bee5 !important;
+			background-color: #47bee5;
+			box-shadow: inset 0 0 0 2px #000000;
+			color: #ffffff !important;
 		}
 
 			input[type="submit"].alt:hover,
